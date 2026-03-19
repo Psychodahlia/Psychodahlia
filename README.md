@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Psychodahlia
-- 👀 I’m interested in ...technical writing, editing, documentation.
+- 👀 I’m interested in ...technical documentation, GRC
 - 🌱 I’m currently learning ...about Github, coding, what skills technical writers need. 
 - 💞️ I’m looking to collaborate on ...how-to guides, instruction manuals, grants.
 - 📫 How to reach me ...email me at gmurtha1986@gmail.com
